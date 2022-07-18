@@ -1,1 +1,1 @@
-# Typora整合pico解决图床问题
+# Typora整合PicGo
